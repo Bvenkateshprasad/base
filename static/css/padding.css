@@ -1,0 +1,18 @@
+
+
+.navbar a:hover{
+    background-color: rgb(218, 50, 50);
+    
+}
+
+
+.nav-item{
+    padding:10px 10px 10px 100px;
+    border-radius:10px;
+    margin-bottom: 10px; 
+   
+    
+}
+.img{
+    padding:100px 100px 10px 100px;
+}
